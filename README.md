@@ -16,3 +16,5 @@ Integrações
 Meta Pixel - Tracking e analytics
 WhatsApp Business API - Canal de comunicação direta
 Responsive Design - Compatibilidade multi-dispositivo
+
+<img width="1907" height="934" alt="image" src="https://github.com/user-attachments/assets/31bded2a-39a6-446a-98fe-c19c054b6187" />
